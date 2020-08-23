@@ -1,0 +1,80 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family: 'Exo', sans-serif;
+}
+
+.container_content {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+/*----HEADER BLOCK-----*/
+
+header {
+    background: url(../img/header_background.png) no-repeat;
+    position: relative;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: bottom right;
+}
+
+.header_content {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 225px;;
+}
+
+.header_content h1 {
+    font-weight: 100;
+    font-size: 60px;
+    padding-bottom: 40px;
+}
+
+.header_content img:hover{
+    cursor:pointer;
+}
+
+.header_content a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    margin:40px auto;
+    display:block;
+    width:190px;
+    border-radius: 5px;;
+    text-transform: uppercase;
+    color:white;
+    padding: 18px 0px;
+    background-color: #ff6d6d;
+}
+
+.header_content p {
+    margin-top: -20px;
+    color: #767779;
+
+}
+
+/*----Second Section-----*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----Media-----*/
+
+
